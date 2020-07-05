@@ -54,6 +54,10 @@ section {
     padding: 5em 2em;
 }
 
+section1 {
+    padding: 2em 2em;
+}
+
 img {
     display: block;
     max-width: 100%;
